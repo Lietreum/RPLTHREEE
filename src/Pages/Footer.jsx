@@ -14,7 +14,7 @@ const Footer = () => {
               class="flex items-center"
             >
               <img
-                src="/RPL3.png"
+                src="/RPL3-2.png"
                 alt=""
                 className="h-[4.5rem] w-[4.5rem] right-2 relative rounded-full brightness-200"
               />
