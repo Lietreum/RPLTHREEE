@@ -20,7 +20,7 @@ const Home = () => {
             id="AngkaGradientBlue"
             className="flex items-center justify-center "
           >
-            31
+            26
           </div>
           <div className="">
             <span
@@ -33,14 +33,14 @@ const Home = () => {
               id="AngkaGradientPink"
               className="text-5xl"
             >
-              7
+              1
             </span>
           </div>
           <div
             id="AngkaGradientPink"
             className="flex items-center justify-center"
           >
-            12
+            5
           </div>
         </div>
 

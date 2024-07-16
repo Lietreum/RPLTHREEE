@@ -14,7 +14,7 @@ const Footer = () => {
               class="flex items-center"
             >
               <img
-                src="/RPL3-2.png"
+                src="/RPL3.png"
                 alt=""
                 className="h-[4.5rem] w-[4.5rem] right-2 relative rounded-full brightness-200"
               />
@@ -24,7 +24,7 @@ const Footer = () => {
           <div class="grid grid-cols-2 sm:grid-cols-3">
             <div className=" ">
               <h2 class="mb-4 text-sm font-semibold uppercase text-white">
-                RECREATED BY
+                CREATED BY
               </h2>
               <ul class="text-gray-400 dark:text-gray-400 font-medium">
                 <li class="mb-2">
@@ -37,10 +37,10 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href=""
+                    href="https://www.instagram.com/rlesr._?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
                     class="hover:underline"
                   >
-                    -
+                    RENDRA
                   </a>
                 </li>
               </ul>
@@ -52,10 +52,10 @@ const Footer = () => {
               <ul class="text-gray-400 dark:text-gray-400 font-medium">
                 <li class="mb-2">
                   <a
-                    href="https://www.instagram.com/rplthreee_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+                    href="https://www.tiktok.com/@rplthree?is_from_webapp=1&sender_device=pc"
                     class="hover:underline "
                   >
-                    Instagram
+                    Tiktok
                   </a>
                 </li>
                 <li>
@@ -64,14 +64,6 @@ const Footer = () => {
                     class="hover:underline"
                   >
                     Youtube
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://www.tiktok.com/@rplthree?is_from_webapp=1&sender_device=pc"
-                    class="hover:underline"
-                  >
-                    Tiktok
                   </a>
                 </li>
               </ul>
@@ -90,7 +82,7 @@ const Footer = () => {
         <div class="sm:flex sm:items-center sm:justify-between">
           <div class="flex mt-4 justify-center sm:mt-0">
             <p className="text-[0.7rem] text-white opacity-70">
-              © @ekizr_ & @dafyall | Di Kelola Oleh Siswa XII RPL 3
+              © @EKIZR & @DAFYALL | Di Kelola Oleh Siswa 12 RPL 3
             </p>
           </div>
         </div>
