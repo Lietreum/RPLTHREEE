@@ -26,7 +26,7 @@ const Rabu = () => {
         data-aos="fade-up"
         data-aos-duration="700"
       >
-        <div className="w-[50%] text-base  font-medium">B.Sunda</div>
+        <div className="w-[50%] text-base  font-medium">MPRPL</div>
         <div className="flex justify-center items-center text-sm">
           10.15-11.45
         </div>
@@ -47,7 +47,7 @@ const Rabu = () => {
         data-aos="fade-up"
         data-aos-duration="900"
       >
-        <div className="w-[50%] text-base  font-medium">Bahasa Inggris</div>
+        <div className="w-[50%] text-base  font-medium">Bhs Inggris</div>
         <div className="flex justify-center items-center text-sm">
           12.30-15.30
         </div>
