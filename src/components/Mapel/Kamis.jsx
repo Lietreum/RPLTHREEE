@@ -8,7 +8,7 @@ const Kamis = () => {
       >
         <div className="w-[50%] text-base  font-medium">PAI</div>
         <div className="flex justify-center items-center text-sm">
-          07.00-08.30
+          07.00-09.15
         </div>
       </div>
       <div
@@ -18,7 +18,7 @@ const Kamis = () => {
       >
         <div className="w-[50%] text-base  font-medium">BK</div>
         <div className="flex justify-center items-center text-sm">
-          08.30-09.15
+          09.15-10.00
         </div>
       </div>
       <div
@@ -78,7 +78,7 @@ const Kamis = () => {
       >
         <div className="w-[50%] text-base  font-medium">PPKN</div>
         <div className="flex justify-center items-center text-sm">
-          13.15-14.00
+          13.15-14.45
         </div>
       </div>
     </>
