@@ -6,9 +6,9 @@ const Senin = () => {
         data-aos="fade-up"
         data-aos-duration="600"
       >
-        <div className="w-[50%] text-base  font-medium">Jepang</div>
+        <div className="w-[50%] text-base  font-medium">Bhs Indonesia</div>
         <div className="flex justify-center items-center text-sm">
-          07.00-08.30
+          07.40-09.40
         </div>
       </div>
       <div
@@ -16,9 +16,9 @@ const Senin = () => {
         data-aos="fade-up"
         data-aos-duration="600"
       >
-        <div className="w-[50%] text-base  font-medium">Bahasa Indonesia</div>
+        <div className="w-[50%] text-base  font-medium">Istirahat</div>
         <div className="flex justify-center items-center text-sm">
-          08.30-10.00
+          09.40-10.00
         </div>
       </div>
       <div
@@ -26,9 +26,9 @@ const Senin = () => {
         data-aos="fade-up"
         data-aos-duration="700"
       >
-        <div className="w-[50%] text-base  font-medium">Istirahat</div>
+        <div className="w-[50%] text-base  font-medium">Bhs Jepang</div>
         <div className="flex justify-center items-center text-sm">
-          10.00-10.15
+          10.00-11.20
         </div>
       </div>
       <div
@@ -38,10 +38,9 @@ const Senin = () => {
       >
         <div className="w-[50%] text-base  font-medium">KK2RPL</div>
         <div className="flex justify-center items-center text-sm">
-          10.15-11.45
+          11.20-12.00
         </div>
       </div>
-
       <div
         className=" flex justify-between py-[0.50rem] w-72 px-3 opacity-60"
         data-aos="fade-up"
@@ -49,7 +48,7 @@ const Senin = () => {
       >
         <div className="w-[50%] text-base  font-medium">Ishoma</div>
         <div className="flex justify-center items-center text-sm">
-          11.45-12.30
+          12.00-12.45
         </div>
       </div>
       <div
@@ -59,7 +58,7 @@ const Senin = () => {
       >
         <div className="w-[50%] text-base font-medium">KK2RPL</div>
         <div className="flex justify-center items-center text-sm">
-          12.30-15.30
+          12.45-15.30
         </div>
       </div>
     </>
